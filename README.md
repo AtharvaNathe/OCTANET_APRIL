@@ -2,7 +2,7 @@
 This repository contains all the tasks files that is given during the web development internship at Tech
 Octanet Private Limited
 
-Task-1
+Task-1 
 -This landing page using HTML & CSS
 
 Task-2
