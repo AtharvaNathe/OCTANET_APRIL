@@ -28,7 +28,7 @@ Task display UI, minimal design, list arrangement, interaction layout.
 
 ---
 
-## 📸 Screenshots  
-> *(Add your screenshots here)*  
-Example:
+## Contributers
+Atharva Nathe
+📧 Email: atharvanathe093@gmail.com
 
