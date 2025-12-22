@@ -30,5 +30,6 @@ Task display UI, minimal design, list arrangement, interaction layout.
 
 ## Contributers
 Atharva Nathe
+
 📧 Email: atharvanathe093@gmail.com
 
