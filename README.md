@@ -1,5 +1,5 @@
 # 🌐 OCTANET_APRIL — Web Development Internship Tasks
-  
+   
 This repository contains all the task files completed during the **Web Development Internship** at **Tech Octanet Private Limited** (April Batch).  
 Each task demonstrates the application of front-end development skills using **HTML**, **CSS**, and basic **JavaScript** (where applicable).
 
